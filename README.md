@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Mightysho
+- ✨ I'm passionate about learning new skills in Technology
 - 👀 I’m interested in becoming a Backend Developer
 - 🌱 I’m currently a Software Engineering student in ALX
 - 💞️ I’m looking to collaborate with Software Multinational Companies in the USA
