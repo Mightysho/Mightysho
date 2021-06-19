@@ -91,7 +91,7 @@ func GetBio() Bio {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="Mightysho :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=nightowl" alt="Mightysho :: Profile Stats" /></p>
 
 <h4 align="center">Enjoy the games while viewing my page 🌐</h4>
 
