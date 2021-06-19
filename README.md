@@ -92,6 +92,7 @@ func GetBio() Bio {
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 ![Nadduli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical)
+![Nadduli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadduli&show_icons=true&theme=radical)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p>
 
