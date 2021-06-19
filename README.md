@@ -64,6 +64,10 @@ func GetBio() Bio {
   <a href="https://tiny.cc/meektech">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Micheal Shokunbi's YouTube Channel" height="30" width="30">
   </a>
+
+  <a href="https://wa.link/jo33f9">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Micheal Shokunbi's WhatsApp Chat" height="30" width="30">
+  </a>
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
