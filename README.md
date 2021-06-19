@@ -1,6 +1,6 @@
 # Micheal Shokunbi
 
-<h2 align="center">WELCOME TO MIGHTYSHO GITHUB PAGE :bar_chart:</h2>
+<h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
 
 <p align="center"><img src="https://thumbs.gfycat.com/AcademicVioletFlyingsquirrel.webp" alt="Code change" height="300" width="500"></p>
 
@@ -84,6 +84,8 @@ func GetBio() Bio {
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p>
+
+<h4 align="center">Enjoy the game as you view my page 🌐</h4>
 
 <p align="center"><img src="https://thumbs.gfycat.com/DistantCommonAmericanlobster-max-1mb.gif" alt="Game" height="300" width="500"></p>
 
