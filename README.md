@@ -85,7 +85,7 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p>
 
-<h4 align="center">Enjoy the game as you view my page 🌐</h4>
+<h4 align="center">Enjoy the game while viewing my page 🌐</h4>
 
 <p align="center"><img src="https://thumbs.gfycat.com/DistantCommonAmericanlobster-max-1mb.gif" alt="Game" height="300" width="500"></p>
 
