@@ -41,6 +41,10 @@ func GetBio() Bio {
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Micheal Shokunbi's DEV Profile" height="30" width="30">
   </a>
 
+  <a href="https://twitter.com/OMightysho/">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Micheal Shokunbi's Twitter Profile" height="30" width="30">
+  </a>
+	
   <a href="http://www.linkedin.com/in/micheal-shokunbi-105b35195/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Micheal Shokunbi's LinkedIn Profile" height="30" width="30">
   </a>
@@ -85,7 +89,7 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p>
 
-<h4 align="center">Enjoy the games while viewing my page :game_pad: 🌐</h4>
+<h4 align="center">Enjoy the games while viewing my page 🌐</h4>
 
 <p align="center"><img src="https://thumbs.gfycat.com/DistantCommonAmericanlobster-max-1mb.gif" alt="Game 1" height="300" width="500"></p>
 
