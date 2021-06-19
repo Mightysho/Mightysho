@@ -86,6 +86,6 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://thumbs.gfycat.com/AcademicVioletFlyingsquirrel.webp" alt="Code change" height="300" width="500"></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/DistantCommonAmericanlobster-mobile.webp" alt="Game" height="300" width="500"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/DistantCommonAmericanlobster-max-1mb.gif" alt="Game" height="300" width="500"></p>
 
 ---
