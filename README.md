@@ -38,7 +38,7 @@ func GetBio() Bio {
 
 <p align="center">
   <a href="https://facebook.com/micheal.shokunbi">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Micheal Shokunbi's Facebook Profile" height="30" width="30">
+    <img src="https://toppng.com/uploads/preview/facebook-messenger-icon-6-3d-facebook-messenger-icon-11553412479dmdpkgrbcq.png" alt="Micheal Shokunbi's Facebook Profile" height="30" width="30">
   </a>
 	
   <a href="https://dev.to/mightysho">
@@ -74,7 +74,7 @@ func GetBio() Bio {
   </a>
 	
   <a href="https://m.me/micheal.shokunbi">
-    <img src="https://toppng.com/uploads/preview/facebook-messenger-icon-6-3d-facebook-messenger-icon-11553412479dmdpkgrbcq.png" alt="Micheal Shokunbi's Messenger Chat" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Micheal Shokunbi's Messenger Chat" height="30" width="30">
   </a>
 </p>
 
