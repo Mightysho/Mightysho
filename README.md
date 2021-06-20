@@ -70,7 +70,7 @@ func GetBio() Bio {
   </a>
 	
   <a href="https://m.me/micheal.shokunbi">
-    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Micheal Shokunbi's Facebook Chat" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Micheal Shokunbi's Facebook Chat" height="30" width="30">
   </a>
 </p>
 
