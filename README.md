@@ -45,9 +45,10 @@ func GetBio() Bio {
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Micheal Shokunbi's DEV Profile" height="30" width="30">
   </a>
 
-[![Mightysho's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/mightysho)
 	
-
+<a href="https://dev.to/mightysho">
+  <i class="fab fa-dev" title="mightysho's DEV Community Profile"></i>
+</a>
 
   <a href="https://twitter.com/OMightysho/">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Micheal Shokunbi's Twitter Profile" height="30" width="30">
