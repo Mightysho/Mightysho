@@ -74,7 +74,7 @@ func GetBio() Bio {
   </a>
 	
   <a href="https://m.me/micheal.shokunbi">
-    <img src="" alt="Micheal Shokunbi's Messenger Chat" height="30" width="30">
+    <img src="https://toppng.com/uploads/preview/facebook-messenger-icon-6-3d-facebook-messenger-icon-11553412479dmdpkgrbcq.png" alt="Micheal Shokunbi's Messenger Chat" height="30" width="30">
   </a>
 </p>
 
