@@ -95,11 +95,17 @@ func GetBio() Bio {
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&langs_count=10&theme=tokyonight&layout=compact" alt="Mightysho :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&langs_count=10&theme=radical&layout=compact" alt="Mightysho :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=rainbow" alt="Mightysho :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=tokyonight" alt="Mightysho :: Profile Stats" /></p>
+
+<p align="center">
+![Mightysho Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kakise&theme=solarized_dark)
+![Mightysho Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kakise&theme=solarized_dark)
+![Mightysho Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakise&theme=solarized_dark)
+</p>
 
 <h4 align="center">Enjoy the games while viewing my page 🌐</h4>
 
@@ -107,19 +113,10 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://thumbs.gfycat.com/BlueClosedLeafcutterant-size_restricted.gif" alt="Game 2" height="300" width="500"></p>
 
-### 🏆 GitHub Profile Trophy:
----
+<h2 align="center">GitHub Profile Trophy 🏆</h2>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Kakise&column=8&theme=radical&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mightysho&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
-
-
-### 📊 GitHub Stats:
----
-![Kakise github stats](https://github-readme-stats.vercel.app/api?username=Kakise&theme=radical&show_icons=true&count_private=true)
-
-![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kakise&theme=solarized_dark)
-![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kakise&theme=solarized_dark)
-![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakise&theme=solarized_dark)
 
 ---
