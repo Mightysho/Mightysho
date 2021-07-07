@@ -95,14 +95,14 @@ func GetBio() Bio {
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&langs_count=10&theme=tokyonight&layout=compact" alt="Mightysho :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&langs_count=10&theme=solarized_dark&layout=compact" alt="Mightysho :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=tokyonight" alt="Mightysho :: Profile Stats" /></p>
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark" /></p>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=tokyonight" /></p>
 	
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark" /></p>
 
