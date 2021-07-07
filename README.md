@@ -115,8 +115,8 @@ func GetBio() Bio {
 
 <h2 align="center">GitHub Profile Trophy 🏆</h2>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mightysho&column=8&theme=radical&no-frame=true&no-bg=true"/>
-</a>
+</a></p>
 
 ---
