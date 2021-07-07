@@ -73,9 +73,6 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Micheal Shokunbi's WhatsApp Chat" height="30" width="30">
   </a>
 	
-<!--   <a href="https://m.me/micheal.shokunbi">
-    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Micheal Shokunbi's Messenger Chat" height="30" width="30">
-  </a> -->
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
