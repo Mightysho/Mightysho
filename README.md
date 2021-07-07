@@ -1,4 +1,4 @@
-`# Micheal Shokunbi`
+`<h1>Micheal Shokunbi</h1>`
 
 <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
 
