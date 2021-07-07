@@ -103,6 +103,7 @@ func GetBio() Bio {
 
 <p align="center">(https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kakise&theme=solarized_dark)
 	(https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kakise&theme=solarized_dark)</p>
+	
 ![Mightysho Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakise&theme=solarized_dark)
 
 
