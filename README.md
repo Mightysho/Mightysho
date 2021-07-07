@@ -99,7 +99,7 @@ func GetBio() Bio {
 
 <h3 align="center">Profile stats :musical_keyboard:</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=golden" alt="Mightysho :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="Mightysho :: Profile Stats" /></p>
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark" /></p>
@@ -115,7 +115,7 @@ func GetBio() Bio {
 <h2 align="center">GitHub Profile Trophy 🏆</h2>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mightysho&column=8&theme=radical&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mightysho&column=8&theme=sunshine&no-frame=true&no-bg=true"/>
 </a></p>
 
 ---
