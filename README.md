@@ -101,10 +101,10 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=tokyonight" alt="Mightysho :: Profile Stats" /></p>
 
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kakise&theme=solarized_dark" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kakise&theme=solarized_dark" /></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark" /></p>
 	
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakise&theme=solarized_dark" /></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark" /></p>
 
 <h4 align="center">Enjoy the games while viewing my page 🌐</h4>
 
