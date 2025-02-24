@@ -2,7 +2,9 @@
 
 <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
 
-<p align="center"><img src="https://thumbs.gfycat.com/AcademicVioletFlyingsquirrel.webp" alt="Code change" height="300" width="500"></p>
+```<p align="center"><img src="https://thumbs.gfycat.com/AcademicVioletFlyingsquirrel.webp" alt="Code change" height="300" width="500"></p>```
+
+<p align="center"><img src="<iframe src="https://gifer.com/embed/47tv" width=480 height=530.837 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>" alt="Code change" height="300" width="500"></p>
 
 <h2 align="center">About me</h2>
 
