@@ -112,7 +112,7 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://i.gifer.com/ZJF5.gif" alt="Aminated Game 1" height="300" width="500"></p>
 
-<p align="center"><img src="https://i.gifer.com/5GpD.gif" alt="Aminated Game 2" height="300" width="500"></p>
+<p align="center"><img src="https://i.gifer.com/5J0l.gif" alt="Aminated Game 2" height="300" width="500"></p>
 
 <h2 align="center">GitHub Profile Trophy 🏆</h2>
 
