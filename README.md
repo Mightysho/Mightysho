@@ -108,11 +108,11 @@ func GetBio() Bio {
 	
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark" /></p>
 
-<h3 align="center">Enjoy the games while viewing my page 🌐</h3>
+<h3 align="center">Enjoy while viewing my page 🌐</h3>
 
-<p align="center"><img src="https://i.gifer.com/ZJF5.gif" alt="Aminated Game 1" height="300" width="500"></p>
+<p align="center"><img src="https://i.gifer.com/ZJF5.gif" alt="Game 1" height="300" width="500"></p>
 
-<p align="center"><img src="https://i.gifer.com/5J0l.gif" alt="Aminated Game 2" height="300" width="500"></p>
+<p align="center"><img src="https://i.gifer.com/2BX3.gif" alt="Game 2" height="300" width="500"></p>
 
 <h2 align="center">GitHub Profile Trophy 🏆</h2>
 
