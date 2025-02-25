@@ -75,7 +75,7 @@ func GetBio() Bio {
   </a>
 
   <a href="mailto:mightysho4sure2014@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Micheal Shokunbi's Gmail" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Micheal Shokunbi's Gmail" height="30" width="30">
   </a>
 	
 </p>
