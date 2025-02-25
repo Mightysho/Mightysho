@@ -70,7 +70,7 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Micheal Shokunbi's YouTube Channel" height="30" width="30">
   </a>
 
-  <a href="https://wa.me/message/PN6JQUCNL2DNJ1">
+  <a href="https://wa.link/hlu0sj">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Micheal Shokunbi's WhatsApp Chat" height="30" width="30">
   </a>
 	
