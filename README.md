@@ -2,7 +2,7 @@
 
 <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
 
-<p align="center"><img src="https://i.gifer.com/47tv.gif" alt="Aminated Gif" height="400" width="600"></p>
+<p align="center"><img src="https://i.gifer.com/47tv.gif" alt="Aminated Gif" height="300" width="500"></p>
 
 <h2 align="center">About me</h2>
 
