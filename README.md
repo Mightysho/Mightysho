@@ -28,7 +28,6 @@ func GetBio() Bio {
         "- 👀 I’m interested in becoming a Backend Developer ⚡",
         "- 🌱 I’m currently a Software Engineering student in ALX + HOLBERTON 🌱",
         "- 👯 I’m looking to collaborate with Software Multinational Companies in the World 💞️",
-	&lt;a href=&#34;http://logd/logs/2801103/&#34;&gt;2801103&lt;/a&gt
         "- 📫 You can reach me on mightysho4sure2014@gmail.com 💬",
 
     }
@@ -107,9 +106,9 @@ func GetBio() Bio {
 
 <h3 align="center">Enjoy the games while viewing my page 🌐</h3>
 
-<p align="center"><img src="https://thumbs.gfycat.com/DistantCommonAmericanlobster-max-1mb.gif" alt="Aminated Game" height="300" width="500"></p>
+<p align="center"><img src="https://i.gifer.com/ZJF5.gif" alt="Aminated Game 1" height="300" width="500"></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/BlueClosedLeafcutterant-size_restricted.gif" alt="Game 2" height="300" width="500"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/BlueClosedLeafcutterant-size_restricted.gif" alt="Aminated Game 2" height="300" width="500"></p>
 
 <h2 align="center">GitHub Profile Trophy 🏆</h2>
 
