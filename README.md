@@ -2,7 +2,7 @@
 
 <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
 
-<p align="center"><img src="https://i.gifer.com/47tv.gif" alt="Aminated Gif" height="300" width="500"></p>
+<p align="center"><img src="https://i.gifer.com/47tv.gif" alt="Aminated Gif" height="480" width="530"></p>
 
 <h2 align="center">About me</h2>
 
@@ -105,7 +105,7 @@ func GetBio() Bio {
 
 <h3 align="center">Enjoy the games while viewing my page 🌐</h3>
 
-<p align="center"><img src="https://thumbs.gfycat.com/DistantCommonAmericanlobster-max-1mb.gif" alt="Game 1" height="300" width="500"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/DistantCommonAmericanlobster-max-1mb.gif" alt="Aminated Game" height="300" width="500"></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/BlueClosedLeafcutterant-size_restricted.gif" alt="Game 2" height="300" width="500"></p>
 
