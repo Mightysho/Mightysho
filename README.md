@@ -29,6 +29,7 @@ func GetBio() Bio {
         "- 🌱 I’m currently a Software Engineering student in ALX + HOLBERTON 🌱",
         "- 👯 I’m looking to collaborate with Software Multinational Companies in the USA 💞️",
         "- 📫 You can reach me on <button>mightysho4sure2014@gmail.com</button> 💬",
+<button type="button">Click Me!</button>
     }
 }
 ```
