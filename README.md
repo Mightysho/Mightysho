@@ -2,7 +2,7 @@
 
 <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
 
-<p align="center"><img src="https://thumbs.gfycat.com/AcademicVioletFlyingsquirrel.webp" alt="Code change" height="300" width="500"></p>
+<p align="center"><src="https://gifer.com/en/embed/47tv" alt="Aminated GifCode" height="300" width="500"></p>
 
 <h2 align="center">About me</h2>
 
