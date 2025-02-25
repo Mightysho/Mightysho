@@ -23,13 +23,14 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-        "- 👋 Hi, I’m @Mightysho 😅",
+        "- 👋 Hi, I’m Mightysho 😅",
         "- ✨ I'm passionate about learning new skills in Technology 🔭",
         "- 👀 I’m interested in becoming a Backend Developer ⚡",
         "- 🌱 I’m currently a Software Engineering student in ALX + HOLBERTON 🌱",
-        "- 👯 I’m looking to collaborate with Software Multinational Companies in the USA 💞️",
-        "- 📫 You can reach me on <button>mightysho4sure2014@gmail.com</button> 💬",
-<button type="button">Click Me!</button>
+        "- 👯 I’m looking to collaborate with Software Multinational Companies in the World 💞️",
+	&lt;a href=&#34;http://logd/logs/2801103/&#34;&gt;2801103&lt;/a&gt
+        "- 📫 You can reach me on mightysho4sure2014@gmail.com 💬",
+
     }
 }
 ```
