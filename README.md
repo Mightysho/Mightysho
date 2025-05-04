@@ -28,7 +28,7 @@ func GetBio() Bio {
         "- 👀 I’m interested in becoming a Backend Developer ⚡",
         "- 🌱 I’m currently a Software Engineering student in ALX + HOLBERTON 🌱",
         "- 👯 I’m looking to collaborate with Software Multinational Companies in the World 💞️",
-        "- 📫 You can reach me on mightysho4sure2014@gmail.com 💬",
+        "- 📫 You can reach me on Linkedin or michealshokunbi.official@gmail.com 💬",
 
     }
 }
