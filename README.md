@@ -24,9 +24,9 @@ func main() {
 func GetBio() Bio {
 	return Bio{
         "- 👋 Hi, I’m Mightysho 😅",
-        "- ✨ I'm passionate about learning new skills in Technology 🔭",
-        "- 👀 I’m interested in becoming a Backend Developer ⚡",
-        "- 🌱 I’m currently a Software Engineering student in ALX + HOLBERTON 🌱",
+        "- ✨ I'm passionate about learning new skills and in innovation in the Technological world 🔭",
+        "- 🌱 I’m an Alumnus of Software Engineering in ALX + HOLBERTON School 🌱",
+        "- 👀 I’m currently running an an Advanced Software Enginnering course at Power-Learn-Project-Africa ⚡",
         "- 👯 I’m looking to collaborate with Software Multinational Companies in the World 💞️",
         "- 📫 You can reach me on Linkedin or michealshokunbi.official@gmail.com 💬",
 
