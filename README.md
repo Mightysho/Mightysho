@@ -16,19 +16,48 @@ def get_bio():
     return Bio({
         "👋 Name": "Hi, I'm Micheal Shokunbi (Mightysho)",
         "💻 Role": "Software Engineer | Backend & API Integration Specialist",
-        "🚀 Passion": "Passionate about building scalable solutions, solving real-world problems, and continuous innovation in technology",
-        "🎓 Education": "Alumnus of Software Engineering - ALX + Holberton School",
-        "📚 Current Learning": "Advanced Software Engineering - Power Learn Project Africa",
-        "🛠 Core Skills": "RESTful APIs, Backend Development, Git, Database Management, System Troubleshooting",
+        "🚀 Passion": "Building scalable solutions, solving real-world problems, and driving innovation in technology",
+
+        "🎓 Education": [
+            "B.Sc in Software Engineering (In View) - Anchor University, Lagos",
+            "Advanced Software Engineering - Power Learn Project Africa",
+            "Advanced Web Development - NITHUB, University of Lagos",
+            "Software Engineering - ALX (Kenya) + Holberton School, USA",
+            "Higher National Diploma (HND) in Computer Engineering - Yaba College of Technology, Lagos",
+            "National Diploma (ND) in Computer Engineering - Yaba College of Technology, Lagos"
+        ],
+
+        "🛠 Core Skills": [
+            "RESTful APIs",
+            "Backend Development",
+            "Git & Version Control",
+            "Database Management",
+            "System Troubleshooting"
+        ],
+
         "🌍 Collaboration": "Open to collaborating with global and multinational tech companies",
-        "📫 Contact": "LinkedIn: /michealshokunbi | Email: michealshokunbi.official@gmail.com"
+
+        "📫 Contact": {
+            "LinkedIn": "/michealshokunbi",
+            "Email": "michealshokunbi.official@gmail.com"
+        }
     })
 
 
 def main():
     bio = get_bio()
+
     for key, value in bio.items():
-        print(f"{key}: {value}")
+        if isinstance(value, list):
+            print(f"{key}:")
+            for item in value:
+                print(f"   - {item}")
+        elif isinstance(value, dict):
+            print(f"{key}:")
+            for sub_key, sub_value in value.items():
+                print(f"   {sub_key}: {sub_value}")
+        else:
+            print(f"{key}: {value}")
 
 
 if __name__ == "__main__":
