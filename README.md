@@ -7,39 +7,42 @@
 <h2 align="center">About me</h2>
 
 
-# 👋 Hi, I'm Micheal Shokunbi (Mightysho)
+```go lang
+package main
 
-## 💻 Software Engineer
-Backend Development | API Integration | Problem Solver
+import (
+	"fmt"
+)
 
----
+type Bio map[string]string
 
-### 🚀 About Me
-- 🌟 Passionate about building scalable and impactful software solutions  
-- 🔭 Focused on innovation and continuous learning in technology  
-- 🌍 Open to collaborating with global and multinational tech companies  
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
 
----
+func GetBio() Bio {
+	return Bio{
 
-### 🎓 Education
-- 🎓 Software Engineering – ALX + Holberton School  
-- 📚 Advanced Software Engineering – Power Learn Project Africa  
+		"👋 Name": "Hi, I'm Micheal Shokunbi (Mightysho)",
 
----
+		"💻 Role": "Software Engineer | Backend & API Integration Specialist",
 
-### 🛠 Technical Skills
-- Backend Development  
-- RESTful API Design & Integration  
-- Git & Version Control  
-- Database Management  
-- System Troubleshooting  
-- Web & CMS Administration  
+		"🚀 Passion": "Passionate about building scalable solutions, solving real-world problems, and continuous innovation in technology",
 
----
+		"🎓 Education": "Alumnus of Software Engineering - ALX + Holberton School",
 
-### 📫 Let's Connect
-- LinkedIn: Micheal Shokunbi  
-- Email: michealshokunbi.official@gmail.com
+		"📚 Current Learning": "Advanced Software Engineering - Power Learn Project Africa",
+
+		"🛠 Core Skills": "RESTful APIs, Backend Development, Git, Database Management, System Troubleshooting",
+
+		"🌍 Collaboration": "Open to collaborating with global and multinational tech companies",
+
+		"📫 Contact": "LinkedIn: /michealshokunbi | Email: michealshokunbi.official@gmail.com",
+	}
+}
+```
 
 
 <h2 align="center">You can reach me at :alien:</h2>
