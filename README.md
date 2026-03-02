@@ -49,7 +49,7 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Micheal Shokunbi's Twitter Profile" height="30" width="30">
   </a>
 	
-  <a href="http://www.linkedin.com/in/micheal-shokunbi-105b35195/">
+  <a href="http://www.linkedin.com/in/micheal-shokunbi/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Micheal Shokunbi's LinkedIn Profile" height="30" width="30">
   </a>
 
@@ -73,7 +73,7 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Micheal Shokunbi's WhatsApp Chat" height="30" width="30">
   </a>
 
-  <a href="mailto:mightysho4sure2014@gmail.com">
+  <a href="mailto:michealshokunbi.official@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Micheal Shokunbi's Gmail" height="30" width="30">
   </a>
 	
