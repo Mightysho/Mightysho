@@ -7,41 +7,32 @@
 <h2 align="center">About me</h2>
 
 
-```go lang
-package main
+```
+class Bio(dict):
+    pass
 
-import (
-	"fmt"
-)
 
-type Bio map[string]string
+def get_bio():
+    return Bio({
+        "👋 Name": "Hi, I'm Micheal Shokunbi (Mightysho)",
+        "💻 Role": "Software Engineer | Backend & API Integration Specialist",
+        "🚀 Passion": "Passionate about building scalable solutions, solving real-world problems, and continuous innovation in technology",
+        "🎓 Education": "Alumnus of Software Engineering - ALX + Holberton School",
+        "📚 Current Learning": "Advanced Software Engineering - Power Learn Project Africa",
+        "🛠 Core Skills": "RESTful APIs, Backend Development, Git, Database Management, System Troubleshooting",
+        "🌍 Collaboration": "Open to collaborating with global and multinational tech companies",
+        "📫 Contact": "LinkedIn: /michealshokunbi | Email: michealshokunbi.official@gmail.com"
+    })
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
 
-func GetBio() Bio {
-	return Bio{
+def main():
+    bio = get_bio()
+    for key, value in bio.items():
+        print(f"{key}: {value}")
 
-		"👋 Name": "Hi, I'm Micheal Shokunbi (Mightysho)",
 
-		"💻 Role": "Software Engineer | Backend & API Integration Specialist",
-
-		"🚀 Passion": "Passionate about building scalable solutions, solving real-world problems, and continuous innovation in technology",
-
-		"🎓 Education": "Alumnus of Software Engineering - ALX + Holberton School",
-
-		"📚 Current Learning": "Advanced Software Engineering - Power Learn Project Africa",
-
-		"🛠 Core Skills": "RESTful APIs, Backend Development, Git, Database Management, System Troubleshooting",
-
-		"🌍 Collaboration": "Open to collaborating with global and multinational tech companies",
-
-		"📫 Contact": "LinkedIn: /michealshokunbi | Email: michealshokunbi.official@gmail.com",
-	}
-}
+if __name__ == "__main__":
+    main()
 ```
 
 
