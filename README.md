@@ -19,7 +19,7 @@ def get_bio():
         "🚀 Passion": "Building scalable solutions, solving real-world problems, and driving innovation in technology",
 
         "🎓 Education": [
-            "B.Sc in Computer Science (Top-Up Ongoing) - Anchor University, Lagos",
+            "Bachelor Degree (B.Sc) in Computer Science (Top-Up Programme) - Anchor University, Lagos",
             "Higher National Diploma (HND) in Computer Engineering - Yaba College of Technology, Lagos",
             "National Diploma (ND) in Computer Engineering - Yaba College of Technology, Lagos"
         ],
