@@ -19,10 +19,7 @@ def get_bio():
         "🚀 Passion": "Building scalable solutions, solving real-world problems, and driving innovation in technology",
 
         "🎓 Education": [
-            "B.Sc in Software Engineering (In View) - Anchor University, Lagos",
-            "Advanced Software Engineering - Power Learn Project Africa",
-            "Advanced Web Development - NITHUB, University of Lagos",
-            "Software Engineering - ALX (Kenya) + Holberton School, USA",
+            "B.Sc in Computer Science (Top-Up Ongoing) - Anchor University, Lagos",
             "Higher National Diploma (HND) in Computer Engineering - Yaba College of Technology, Lagos",
             "National Diploma (ND) in Computer Engineering - Yaba College of Technology, Lagos"
         ],
