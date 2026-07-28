@@ -103,10 +103,6 @@ if __name__ == "__main__":
   <a href="https://medium.com/@mightysho123">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Micheal Shokunbi's Medium Profile" height="30" width="30">
   </a>
-  
-  <a href="https://tiny.cc/meektech">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Micheal Shokunbi's YouTube Channel" height="30" width="30">
-  </a>
 
   <a href="https://wa.link/hlu0sj">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Micheal Shokunbi's WhatsApp Chat" height="30" width="30">
@@ -129,36 +125,23 @@ if __name__ == "__main__":
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<!-- <h3 align="center">Visitor's count :eyes:</h3>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Mightysho}/count.svg" alt="Mightysho :: Visitor's Count" /></p>
-
-<h3 align="center">Top langs :tongue:</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&langs_count=10&theme=radical&layout=compact" alt="Mightysho :: Top Langs" /></p>
-
-<h3 align="center">Profile stats :musical_keyboard:</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="Mightysho :: Profile Stats" /></p> -->
-
----
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark&animation=sequence&name=Micheal+Shokunbi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark&animation=sequence) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mightysho&theme=solarized_dark&animation=sequence) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mightysho&theme=solarized_dark&animation=sequence&utcOffset=1)
+
 ---
 
-<!-- <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark&animation=sequence" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark&animation=sequence" /></p>
-	
-<p align="center">
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark&animation=sequence&name=Micheal+Shokunbi" />
+</p>
+
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark&animation=sequence" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark&animation=sequence" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mightysho&theme=solarized_dark&animation=sequence" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mightysho&theme=solarized_dark&animation=sequence&utcOffset=1" />
-</p> -->
+</p>
 
 <p align="center"><img src="https://i.gifer.com/2mVW.gif" alt="Animation" height="300" width="500"></p>
 
-<!-- <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark&animation=sequence&name=Micheal+Shokunbi" />
-</p> -->
 
 <!-- <h2 align="center">GitHub Profile Trophy 🏆</h2>
 
