@@ -8,12 +8,11 @@
 3
 <p align="center"><img src="https://i.gifer.com/81O8.gif" alt="Animation" height="300" width="500"></p> -->
 <!-- 4 -->
-<p align="center"><img src="https://i.gifer.com/Cwgf.gif" alt="Animation" height="300" width="max"></p>
+<p align="center"><img src="https://i.gifer.com/Cwgf.gif" alt="Animation" height="300" width="800"></p>
 <!-- 5
 <p align="center"><img src="https://i.gifer.com/J59.gif" alt="Animation" height="300" width="500"></p>
 6
 <p align="center"><img src="https://i.gifer.com/9viJ.gif" alt="Animation" height="300" width="500"></p>
-
 8
 <p align="center"><img src="https://i.gifer.com/NIbp.gif" alt="Animation" height="300" width="500"></p> -->
 
@@ -142,11 +141,11 @@ if __name__ == "__main__":
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="Mightysho :: Profile Stats" /></p> -->
 
-
+<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark&animation=sequence&name=Micheal+Shokunbi)
-<p align="center"><img src="https://i.gifer.com/2mVW.gif" alt="Animation" height="300" width="max"></p>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark&animation=sequence) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mightysho&theme=solarized_dark&animation=sequence) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mightysho&theme=solarized_dark&animation=sequence&utcOffset=1)
+</p>
 
 <!-- <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark&animation=sequence" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark&animation=sequence" /></p>
@@ -156,7 +155,7 @@ if __name__ == "__main__":
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mightysho&theme=solarized_dark&animation=sequence&utcOffset=1" />
 </p> -->
 
-<!-- <p align="center"><img src="https://i.gifer.com/2mVW.gif" alt="Animation" height="300" width="500"></p> -->
+<p align="center"><img src="https://i.gifer.com/2mVW.gif" alt="Animation" height="300" width="500"></p>
 
 <!-- <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark&animation=sequence&name=Micheal+Shokunbi" />
 </p> -->
