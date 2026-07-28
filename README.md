@@ -1,22 +1,21 @@
 # `Micheal Shokunbi`
 
 <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
-1
+<!-- 1 -->
 <p align="center"><img src="https://i.gifer.com/83WF.gif" alt="Animation" height="300" width="500"></p>
-2
+<!-- 2
 <p align="center"><img src="https://i.gifer.com/3BBS.gif" alt="Animation" height="300" width="500"></p>
 3
-<p align="center"><img src="https://i.gifer.com/81O8.gif" alt="Animation" height="300" width="500"></p>
-4
+<p align="center"><img src="https://i.gifer.com/81O8.gif" alt="Animation" height="300" width="500"></p> -->
+<!-- 4 -->
 <p align="center"><img src="https://i.gifer.com/Cwgf.gif" alt="Animation" height="300" width="500"></p>
-5
+<!-- 5
 <p align="center"><img src="https://i.gifer.com/J59.gif" alt="Animation" height="300" width="500"></p>
 6
 <p align="center"><img src="https://i.gifer.com/9viJ.gif" alt="Animation" height="300" width="500"></p>
-7
-<p align="center"><img src="https://i.gifer.com/2mVW.gif" alt="Animation" height="300" width="500"></p>
+
 8
-<p align="center"><img src="https://i.gifer.com/NIbp.gif" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://i.gifer.com/NIbp.gif" alt="Animation" height="300" width="500"></p> -->
 
 <h2 align="center">About me</h2>
 
@@ -146,14 +145,15 @@ if __name__ == "__main__":
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark&animation=sequence" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark&animation=sequence" /></p>
 	
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mightysho&theme=solarized_dark&animation=sequence" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mightysho&theme=solarized_dark&animation=sequence&utcOffset=1" />
+</p>
+
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark&animation=sequence&name=Micheal+Shokunbi" />
 </p>
 
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mightysho&theme=solarized_dark&animation=sequence" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mightysho&theme=solarized_dark&animation=sequence&utcOffset=0" />
-</p>
-
+<p align="center"><img src="https://i.gifer.com/2mVW.gif" alt="Animation" height="300" width="500"></p>
 
 <!-- <h2 align="center">GitHub Profile Trophy 🏆</h2>
 
