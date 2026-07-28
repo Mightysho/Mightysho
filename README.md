@@ -1,13 +1,27 @@
 # `Micheal Shokunbi`
 
 <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
-
-<p align="center"><img src="https://i.gifer.com/47tv.gif" alt="Aminated Gif" height="350" width="550"></p>
+1
+<p align="center"><img src="https://gifer.com/en/83WF" alt="Animation" height="300" width="500"></p>
+2
+<p align="center"><img src="https://gifer.com/en/3BBS" alt="Animation" height="300" width="500"></p>
+3
+<p align="center"><img src="https://gifer.com/en/81O8" alt="Animation" height="300" width="500"></p>
+4
+<p align="center"><img src="https://gifer.com/en/Cwgf" alt="Animation" height="300" width="500"></p>
+5
+<p align="center"><img src="https://gifer.com/en/J59" alt="Animation" height="300" width="500"></p>
+6
+<p align="center"><img src="https://gifer.com/en/9viJ" alt="Animation" height="300" width="500"></p>
+7
+<p align="center"><img src="https://gifer.com/en/2mVW" alt="Animation" height="300" width="500"></p>
+8
+<p align="center"><img src="https://gifer.com/en/2mVW" alt="Animation" height="300" width="500"></p>
 
 <h2 align="center">About me</h2>
 
 
-```
+`
 class Bio(dict):
     pass
 
@@ -19,7 +33,6 @@ def get_bio():
         "🚀 Passion": "Building scalable solutions, solving real-world problems, and driving innovation in technology",
 
         "🎓 Education": [
-            "Bachelor Degree (B.Sc) in Computer Science (Top-Up Programme) - Anchor University, Lagos",
             "Higher National Diploma (HND) in Computer Engineering - Yaba College of Technology, Lagos",
             "National Diploma (ND) in Computer Engineering - Yaba College of Technology, Lagos"
         ],
@@ -59,7 +72,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+`
 
 
 <h2 align="center">You can reach me at :alien:</h2>
@@ -73,8 +86,8 @@ if __name__ == "__main__":
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Micheal Shokunbi's DEV Profile" height="30" width="30">
   </a>
 
-  <a href="https://twitter.com/OMightysho/">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Micheal Shokunbi's Twitter Profile" height="30" width="30">
+  <a href="https://x.com/OMightysho/">
+    <img src="https://www.vectorlogo.zone/logos/x/x-official.svg" alt="Micheal Shokunbi's X Profile" height="30" width="30">
   </a>
 	
   <a href="http://www.linkedin.com/in/micheal-shokunbi/">
@@ -118,7 +131,7 @@ if __name__ == "__main__":
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h3 align="center">Visitor's count :eyes:</h3>
+<!-- <h3 align="center">Visitor's count :eyes:</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Mightysho}/count.svg" alt="Mightysho :: Visitor's Count" /></p>
 
@@ -128,7 +141,7 @@ if __name__ == "__main__":
 
 <h3 align="center">Profile stats :musical_keyboard:</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="Mightysho :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="Mightysho :: Profile Stats" /></p> -->
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark" /></p>
@@ -138,10 +151,20 @@ if __name__ == "__main__":
 
 <p align="center"><img src="https://i.gifer.com/ZJF5.gif" alt="Animation" height="300" width="500"></p>
 
-<h2 align="center">GitHub Profile Trophy 🏆</h2>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark&animation=sequence&name=Micheal+Shokunbi)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark&animation=sequence)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark&animation=sequence)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mightysho&theme=solarized_dark&animation=sequence)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mightysho&theme=solarized_dark&animation=sequence&utcOffset=0)
+
+<!-- <h2 align="center">GitHub Profile Trophy 🏆</h2>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mightysho&column=8&theme=radical&no-frame=true&no-bg=true"/>
-</a></p>
+</a></p> -->
 
 ---
