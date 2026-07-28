@@ -131,7 +131,7 @@ if __name__ == "__main__":
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mightysho&theme=solarized_dark&animation=sequence" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mightysho&theme=solarized_dark&animation=sequence&utcOffset=1" />
 </p>
-<br>
+
 <h2 align="center"></h2>
 <br>
 
@@ -143,5 +143,3 @@ if __name__ == "__main__":
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mightysho&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a></p> -->
-
----
