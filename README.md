@@ -132,7 +132,7 @@ if __name__ == "__main__":
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mightysho&theme=solarized_dark&animation=sequence&utcOffset=1" />
 </p>
 
--
+<h2 align="center">---</h2>
 
 <p align="center"><img src="https://i.gifer.com/2mVW.gif" alt="Animation" height="300" width="500"></p>
 
