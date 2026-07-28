@@ -8,7 +8,7 @@
 3
 <p align="center"><img src="https://i.gifer.com/81O8.gif" alt="Animation" height="300" width="500"></p> -->
 <!-- 4 -->
-<p align="center"><img src="https://i.gifer.com/Cwgf.gif" alt="Animation" height="550" width="750"></p>
+<p align="center"><img src="https://i.gifer.com/Cwgf.gif" alt="Animation" height="400" width="750"></p>
 <!-- 5
 <p align="center"><img src="https://i.gifer.com/J59.gif" alt="Animation" height="300" width="500"></p>
 6
