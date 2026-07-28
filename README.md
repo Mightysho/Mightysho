@@ -2,26 +2,26 @@
 
 <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
 1
-<p align="center"><img src="https://gifer.com/en/83WF" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://gifer.com/en/83WF.gif" alt="Animation" height="300" width="500"></p>
 2
-<p align="center"><img src="https://gifer.com/en/3BBS" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://gifer.com/en/3BBS.gif" alt="Animation" height="300" width="500"></p>
 3
-<p align="center"><img src="https://gifer.com/en/81O8" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://gifer.com/en/81O8.gif" alt="Animation" height="300" width="500"></p>
 4
-<p align="center"><img src="https://gifer.com/en/Cwgf" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://gifer.com/en/Cwgf.gif" alt="Animation" height="300" width="500"></p>
 5
-<p align="center"><img src="https://gifer.com/en/J59" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://gifer.com/en/J59.gif" alt="Animation" height="300" width="500"></p>
 6
-<p align="center"><img src="https://gifer.com/en/9viJ" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://gifer.com/en/9viJ.gif" alt="Animation" height="300" width="500"></p>
 7
-<p align="center"><img src="https://gifer.com/en/2mVW" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://gifer.com/en/2mVW.gif" alt="Animation" height="300" width="500"></p>
 8
-<p align="center"><img src="https://gifer.com/en/2mVW" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://gifer.com/en/2mVW.gif" alt="Animation" height="300" width="500"></p>
 
 <h2 align="center">About me</h2>
 
 
-`
+```
 class Bio(dict):
     pass
 
@@ -72,7 +72,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-`
+```
 
 
 <h2 align="center">You can reach me at :alien:</h2>
@@ -87,7 +87,7 @@ if __name__ == "__main__":
   </a>
 
   <a href="https://x.com/OMightysho/">
-    <img src="https://www.vectorlogo.zone/logos/x/x-official.svg" alt="Micheal Shokunbi's X Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="Micheal Shokunbi's X Profile" height="30" width="30">
   </a>
 	
   <a href="http://www.linkedin.com/in/micheal-shokunbi/">
@@ -146,7 +146,7 @@ if __name__ == "__main__":
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark" /></p>
 	
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark" /></p>
+<p align="center"><img src="[ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark&animation=sequence&name=Micheal+Shokunbi)" /></p>
 
 
 <p align="center"><img src="https://i.gifer.com/ZJF5.gif" alt="Animation" height="300" width="500"></p>
