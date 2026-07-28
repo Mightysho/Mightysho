@@ -55,19 +55,6 @@ def get_bio():
 def main():
     bio = get_bio()
 
-    for key, value in bio.items():
-        if isinstance(value, list):
-            print(f"{key}:")
-            for item in value:
-                print(f"   - {item}")
-        elif isinstance(value, dict):
-            print(f"{key}:")
-            for sub_key, sub_value in value.items():
-                print(f"   {sub_key}: {sub_value}")
-        else:
-            print(f"{key}: {value}")
-
-
 if __name__ == "__main__":
     main()
 ```
