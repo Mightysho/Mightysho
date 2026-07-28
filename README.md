@@ -16,7 +16,7 @@
 7
 <p align="center"><img src="https://i.gifer.com/2mVW.gif" alt="Animation" height="300" width="500"></p>
 8
-<p align="center"><img src="https://i.gifer.com/2mVW.gif" alt="Animation" height="300" width="500"></p>
+<p align="center"><img src="https://i.gifer.com/NIbp.gif" alt="Animation" height="300" width="500"></p>
 
 <h2 align="center">About me</h2>
 
@@ -143,10 +143,8 @@ if __name__ == "__main__":
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&show_icons=true&theme=radical" alt="Mightysho :: Profile Stats" /></p> -->
 
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark&animation=sequence" />
-	<img src="https://https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark&animation=sequence" />
-</p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mightysho&theme=solarized_dark&animation=sequence" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mightysho&theme=solarized_dark&animation=sequence" /></p>
 	
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mightysho&theme=solarized_dark&animation=sequence&name=Micheal+Shokunbi" />
 </p>
