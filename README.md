@@ -1,6 +1,6 @@
-# `Micheal Shokunbi`
+# `Engr. Micheal Shokunbi`
 
-<h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2>
+<!-- <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2> -->
 <!-- 1 -->
 <!-- <p align="center"><img src="https://i.gifer.com/83WF.gif" alt="Animation" height="400" width="800"></p> -->
 <!-- 2
@@ -8,7 +8,7 @@
 3
 <p align="center"><img src="https://i.gifer.com/81O8.gif" alt="Animation" height="300" width="500"></p> -->
 <!-- 4 -->
-<p align="center"><img src="https://i.gifer.com/Cwgf.gif" alt="Animation" height="400" width="800"></p>
+<!-- <p align="center"><img src="https://i.gifer.com/Cwgf.gif" alt="Animation" height="400" width="800"></p> -->
 <!-- 5
 <p align="center"><img src="https://i.gifer.com/J59.gif" alt="Animation" height="300" width="500"></p>
 6
@@ -31,6 +31,7 @@ def get_bio():
         "🚀 Passion": "Building scalable solutions, solving real-world problems, and driving innovation in technology",
 
         "🎓 Education": [
+			"Graduate Member of Nigerian Association of Technologists in Engineering (GMNATE)"
             "Higher National Diploma (HND) in Computer Engineering - Yaba College of Technology, Lagos",
             "National Diploma (ND) in Computer Engineering - Yaba College of Technology, Lagos"
         ],
