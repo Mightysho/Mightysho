@@ -1,5 +1,21 @@
 # `Engr. Micheal Shokunbi`
 
+| [![Mightysho](https://img.shields.io/badge/MICHEAL-SHOKUNBI-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Mightysho&color=green) | ![Followers](https://img.shields.io/github/followers/Mightysho) | ![Stars](https://img.shields.io/github/stars/Mightysho?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+
+
+<br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mightysho&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mightysho&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&langs_count=5&theme=tokyonight)]()
+
+
+![](https://github-readme-stats.vercel.app/api?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mightysho&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+
 <!-- <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2> -->
 <!-- 1 -->
 <!-- <p align="center"><img src="https://i.gifer.com/83WF.gif" alt="Animation" height="400" width="800"></p> -->
