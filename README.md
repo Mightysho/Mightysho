@@ -141,7 +141,7 @@ if __name__ == "__main__":
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p> -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true" />
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mightysho&theme=light&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+</p> -->
