@@ -3,13 +3,6 @@
 | [![Mightysho](https://img.shields.io/badge/MICHEAL-SHOKUNBI-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Mightysho&color=green) | ![Followers](https://img.shields.io/github/followers/Mightysho) | ![Stars](https://img.shields.io/github/stars/Mightysho?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mightysho&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-
 <!-- <h2 align="center">WELCOME TO MIGHTYSHO 👨🏻‍💻 GITHUB PAGE</h2> -->
 <!-- 1 -->
 <!-- <p align="center"><img src="https://i.gifer.com/83WF.gif" alt="Animation" height="400" width="800"></p> -->
@@ -141,3 +134,7 @@ if __name__ == "__main__":
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mightysho&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a></p> -->
+
+![](https://github-readme-stats.vercel.app/api?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mightysho&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
