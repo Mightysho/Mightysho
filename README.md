@@ -135,8 +135,13 @@ if __name__ == "__main__":
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mightysho&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a></p> -->
 
-<p align="center">
+<!-- <p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mightysho&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p> -->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mightysho&theme=light&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
